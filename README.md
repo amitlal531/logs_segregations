@@ -7,9 +7,9 @@ Steps for setting up yours own local repository:
   2. open terminal/commandline
   3. Set your username: git config --global user.name "FIRST_NAME LAST_NAME"
   4. Set your email address: git config --global user.email "MY_NAME@example.com"
-  5. git clone https://github.com/amitlal531/logs_segregations.git
-  6. cd log_segregations
-  7. pip install -r requirements.txt
+  5. Clone Repository: git clone https://github.com/amitlal531/logs_segregations.git
+  6. Change Working Directory: cd log_segregations
+  7. Install Required Modules: pip install -r requirements.txt
 
 
 For contributing to the project follow below instructions:
